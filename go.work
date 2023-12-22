@@ -1,0 +1,6 @@
+go 1.21.5
+
+use (
+	./test-2/greetings
+	./test-2/hello
+)
